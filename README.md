@@ -49,4 +49,3 @@ X = tfidf_vectorizer.fit_transform(reviews)
 # Training a Logistic Regression Model
 model = LogisticRegression()
 model.fit(X_train, y_train)
-
