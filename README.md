@@ -60,10 +60,10 @@ model.fit(X_train, y_train)
 
 2. **Install Required Packages**:
    ```bash
-  pip install nltk spacy gensim scikit-learn keras tensorflow
+   pip install nltk spacy gensim scikit-learn keras tensorflow
    ```
 
-3. **Run the Notebook**:
+3.**Run the Notebook**:
    Open the project in Jupyter Notebook:
    ```bash
    jupyter notebook
