@@ -1,6 +1,3 @@
-Apologies for the misunderstanding! Here's the full README with **Installation and Usage** included in one go:
-
-```
 # IMDB Movie Sentiment Analysis
 
 ## Project Overview
@@ -52,7 +49,7 @@ X = tfidf_vectorizer.fit_transform(reviews)
 # Training a Logistic Regression Model
 model = LogisticRegression()
 model.fit(X_train, y_train)
-```
+'''
 
 ## Installation and Usage
 
