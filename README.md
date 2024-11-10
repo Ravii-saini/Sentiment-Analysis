@@ -76,4 +76,3 @@ model.fit(X_train, y_train)
 
 ## License
 This project is intended for self-learning purposes.
-```
