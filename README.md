@@ -49,3 +49,28 @@ X = tfidf_vectorizer.fit_transform(reviews)
 # Training a Logistic Regression Model
 model = LogisticRegression()
 model.fit(X_train, y_train)
+
+
+
+Installation and Usage
+Clone the Repository:
+
+bash
+Copy code
+git clone <repository-url>
+Install Required Packages:
+
+bash
+Copy code
+pip install -r requirements.txt
+Run the Notebook: Open the project in Jupyter Notebook:
+
+bash
+Copy code
+jupyter notebook
+Future Improvements
+Incorporate advanced models like BERT for deeper text analysis.
+Optimize performance with hyperparameter tuning for the current models.
+Explore additional datasets to enhance the model’s generalization to diverse review sources.
+License
+This project is intended for self-learning purposes.
