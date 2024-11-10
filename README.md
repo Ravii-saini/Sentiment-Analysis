@@ -55,7 +55,7 @@ model.fit(X_train, y_train)
 
 1. **Clone the Repository**:
    ```bash
-   git clone <[repository-url](https://github.com/Ravii-saini/Sentiment-Analysis.git)>
+   git clone <https://github.com/Ravii-saini/Sentiment-Analysis.git>
    ```
 
 2. **Install Required Packages**:
