@@ -49,7 +49,7 @@ X = tfidf_vectorizer.fit_transform(reviews)
 # Training a Logistic Regression Model
 model = LogisticRegression()
 model.fit(X_train, y_train)
-'''
+```
 
 ## Installation and Usage
 
@@ -77,5 +77,3 @@ model.fit(X_train, y_train)
 ## License
 This project is intended for self-learning purposes.
 ```
-
-Now the **Installation and Usage** section is included properly in the flow, and you can copy the entire text in one go for your README file. Let me know if you need any more tweaks!
